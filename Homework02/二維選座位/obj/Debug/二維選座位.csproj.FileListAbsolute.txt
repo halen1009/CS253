@@ -7,3 +7,6 @@ D:\程式Coding\C#\Projects\Homeworks\Homework02\二維選座位\bin\Debug\二�
 D:\程式Coding\C#\Projects\Homeworks\Homework02\二維選座位\bin\Debug\二維選座位.pdb
 D:\程式Coding\C#\Projects\Homeworks\Homework02\二維選座位\obj\Debug\二維選座位.exe
 D:\程式Coding\C#\Projects\Homeworks\Homework02\二維選座位\obj\Debug\二維選座位.pdb
+D:\程式Coding\C#\Homeworks\Homework02\二維選座位\bin\Debug\二維選座位.exe.config
+D:\程式Coding\C#\Homeworks\Homework02\二維選座位\obj\Debug\二維選座位.exe
+D:\程式Coding\C#\Homeworks\Homework02\二維選座位\obj\Debug\二維選座位.pdb
